@@ -15,16 +15,21 @@ namespace Selenium
         [SetUp]
         public void Initialize()
         {
-            driver.Navigate().GoToUrl("https://www.google.com.co/");
+            driver.Navigate().GoToUrl("https://demosite.executeautomation.com/index.html");
             Console.WriteLine("Driver initialized");
         }
 
         [Test]
         public void ExecuteTest()
         {
-            IWebElement barraNav = driver.FindElement(By.Name("q"));
-            barraNav.SendKeys("Hola mundo");
-            Console.WriteLine("Test executed");
+            //Tittle
+            SeleniumSetMethods.SelectDropDown(driver, "TitleId", "Mr.", "Id");
+
+            //Initial
+            SeleniumSetMethods.EnterText(driver, "Initial","Brayan", "Name");
+
+            //Click
+            SeleniumSetMethods.Click(driver,"Save","Name");
         }
 
         [TearDown]

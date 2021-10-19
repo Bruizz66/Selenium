@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iWCDYmiWT743v68POAW4MTTb+E6lzsHR1Mzf17ZuNayRHMijSUK9odF8UzwA9HswJsxa5MrY7lkuDAz16nOPlw==",
+  "dgSpecHash": "tVOlQUL0yE1bdo46/EzUcUkHcD8qfe423r4miiN0x15bNrj6Kg0jfpdwdoCc6mrknyDgUIYoFv0y0+60pR/glA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Selenium\\Selenium\\Selenium.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.support\\4.0.0\\selenium.support.4.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\selenium.webdriver\\4.0.0\\selenium.webdriver.4.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\selenium.webdriver.chromedriver\\94.0.4606.6100\\selenium.webdriver.chromedriver.94.0.4606.6100.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
